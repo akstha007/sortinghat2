@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorting Hat 2</string>
+    <string name="settings">Settings</string>
+
+    <!--Ads-->
+    <string name="banner_ad_unit_id">ca-app-pub-7250925653938754/9978984263</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-7250925653938754/1906064888</string>
+
+</resources>
